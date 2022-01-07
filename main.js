@@ -20,3 +20,4 @@ console.log(maxSubstringLength(""));
 console.log(maxSubstringLength("4"));
 console.log(maxSubstringLength("44"));
 console.log(maxSubstringLength("4533333253444444"));
+console.log("Hello");
